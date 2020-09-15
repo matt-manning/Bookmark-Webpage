@@ -1,0 +1,32 @@
+.card-margin {
+	margin: 4 0;
+}
+
+.card-padding {
+	padding: 0;
+}
+
+.card-size {
+	padding: 8;
+	margin: 1;
+	border: 1;
+}
+
+.img-size {
+	size: 5;
+	padding: 2;
+	
+}
+
+.show-none {
+	display: none;
+}
+
+.fav {
+	visibility: visible;
+	opacity: 1;
+}
+
+.right {
+	float: right;
+}
